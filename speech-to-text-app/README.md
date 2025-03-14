@@ -2,7 +2,7 @@
 
 *Speech-to-Text Transcriber* is a web application that allows users to upload audio files and receive a text transcription using OpenAI's Whisper model. The application is containerized using Docker for easy deployment and scalability, and it features a modern, responsive UI built with Bootstrap.
 
-Features
+`Features:`
 Audio Upload: Supports multiple audio formats, including MP3, WAV, and more.
 
 Transcription: Uses OpenAI's Whisper AI for accurate speech-to-text conversion.
